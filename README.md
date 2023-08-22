@@ -1,4 +1,4 @@
-*How javascript work?
+## How javascript work?
 1-there is engines that make js work (المحركات تعتبر قلب لأي لغة وهى تعتبر البرنامج الرئيسي الى بيقوم بقرائة كود الجافا سكريبت وينفذه)
 2-Lexical analysis (مرحلة التحليل) :
     -scanning and this is made by parser (interpreterيعتبر الوحدة المبسطة من ال) -> parser breaks the code into tokens or chunks (this stage is called tokenization)
@@ -10,4 +10,5 @@
 5-execution to execute the code
 6-show results to the user
 ........................................................................................................
-*what is document.write and it's job?
+## what is document.write and it's job?
+it is a method in JavaScript that allows you to dynamically write content directly to a web page , It's a simple way to generate content, such as text, HTML elements, or even script tags, and have it appear in the rendered HTML.
