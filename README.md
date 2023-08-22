@@ -12,5 +12,5 @@
 ---
 ## what is document.write and it's job?
 it is a method in JavaScript that allows you to dynamically write content directly to a web page , It's a simple way to generate content, such as text, HTML elements, or even script tags, and have it appear in the rendered HTML.
-![example for doc.write](C:\Users\jgggg\OneDrive\سطح المكتب\Course Front\Lecture 7)
+![example for doc.write]
 ## By using Template Literals  give one example that have alt least one <div> and content inside it then assign it  inside document.write()
